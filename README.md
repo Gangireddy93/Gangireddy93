@@ -8,7 +8,7 @@
 </h1>
 
 <h3 align="center">
-  Python Full Stack Developer | React.js | Python | JavaScript
+  Python Full Stack Developer | React.js| JavaScript | Node.js | Express.js | MongoDB
 </h3>
 
 <div align="center">
